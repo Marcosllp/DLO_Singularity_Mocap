@@ -1,0 +1,5 @@
+qualisys_node:
+  ros__parameters:
+    server_address: "192.168.100.20"
+    server_base_port: 22222
+    publish_tf: false
