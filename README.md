@@ -1,7 +1,7 @@
 # DLO_Singularity_Mocap
 
 
-__The simulation is a closed loop experiment of a deformable rod detected by three markers with the Qualisys mocap system. The goal is to drive this rod into a objective position and validate the estimation of the jacobian computed in the initial position.__
+The simulation is a closed loop experiment of a deformable rod detected by three markers with the Qualisys mocap system. The goal is to drive this rod into a objective position and validate the estimation of the jacobian computed in the initial position.
 
 #### Steps of Simulation:
 
